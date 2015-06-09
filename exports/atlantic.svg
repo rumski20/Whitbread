@@ -42,13 +42,13 @@
      units="in"
      showguides="true"
      inkscape:document-units="mm"
-     inkscape:zoom="1"
-     inkscape:cx="1680.7396"
-     inkscape:cy="1620"
+     inkscape:zoom="2.8336649"
+     inkscape:cx="3932.1094"
+     inkscape:cy="2055.0822"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      borderlayer="true"
      inkscape:snap-page="true">
     <inkscape:grid
@@ -3648,7 +3648,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="land"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        transform="matrix(1.7909394,0,0,1.7909394,-5670.3627,6428.6329)"
        style="display:inline;fill:#808000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
@@ -5182,6 +5183,610 @@
            vector-effect="none" />
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="cities">
+    <circle
+       style="fill:#ff0000"
+       id="path8164"
+       cx="1785.0002"
+       cy="6541.6665"
+       r="21.666668" />
+    <circle
+       style="fill:#ff0000"
+       id="path8164-0"
+       cx="1095.0001"
+       cy="3661.6665"
+       r="21.666668" />
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1"
+       cx="6308.334"
+       cy="6553.333"
+       r="21.666668" />
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1"
+       cx="11948.817"
+       cy="6168.1865"
+       r="21.666668" />
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0"
+       cx="13385.878"
+       cy="3660.7346"
+       r="21.666668" />
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-7"
+       cx="7102.4609"
+       cy="6632.3926"
+       r="21.666668" />
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-7-1"
+       cx="11456.642"
+       cy="6686.5854"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="11484.593"
+       y="6719.9937"
+       id="text8256"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="11484.593"
+         y="6719.9937"
+         id="tspan8260">Mar del Plata</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="11969.15"
+       y="6253.9468"
+       id="text8256-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="11969.15"
+         y="6253.9468"
+         id="tspan8260-2">Rio de Janeiro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="7120.1533"
+       y="6612.4165"
+       id="text8256-3-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="7120.1533"
+         y="6612.4165"
+         id="tspan8260-2-0">Auckland</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="6202.1138"
+       y="6932.0869"
+       id="text8256-3-8-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="6202.1138"
+         y="6932.0869"
+         id="tspan8260-2-0-6">Hobart</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1219.1847"
+       y="6518.4028"
+       id="text8256-3-8-2-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1219.1847"
+         y="6518.4028"
+         id="tspan8260-2-0-6-9">Cape Town</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1112.4421"
+       y="3650.5107"
+       id="text8256-3-8-2-7-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1112.4421"
+         y="3650.5107"
+         id="tspan8260-2-0-6-9-5">Portsmouth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12858.646"
+       y="3657.6465"
+       id="text8256-3-8-2-7-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="12858.646"
+         y="3657.6465"
+         id="tspan8260-2-0-6-9-5-9">Southampton</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-7-1-6"
+       cx="11559.329"
+       cy="6585.231"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="11586.517"
+       y="6576.3882"
+       id="text8256-37"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="11586.517"
+         y="6576.3882"
+         id="tspan8260-1">Punta del Este</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="361.11624"
+       y="3636.9463"
+       id="text8256-3-8-2-7-3-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="361.11624"
+         y="3636.9463"
+         id="tspan8260-2-0-6-9-5-2">Southampton</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-0-9"
+       cx="1049.2891"
+       cy="3653.7776"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13406.668"
+       y="3721.9839"
+       id="text8256-3-8-2-7-3-3-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="13406.668"
+         y="3721.9839"
+         id="tspan8260-2-0-6-9-5-9-0">Portsmouth</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-3"
+       cx="13337.263"
+       cy="3647.8958"
+       r="21.666668" />
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-6"
+       cx="5095.4229"
+       cy="6484.7534"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="4574.9712"
+       y="6463.3926"
+       id="text8256-3-8-2-73"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="4574.9712"
+         y="6463.3926"
+         id="tspan8260-2-0-6-7">Fremantle</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-1"
+       cx="10699.861"
+       cy="4506.4561"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="10710.783"
+       y="4473.0723"
+       id="text8256-3-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="10710.783"
+         y="4473.0723"
+         id="tspan8260-2-7">Fort Lauderdale /</tspan><tspan
+         sodipodi:role="line"
+         x="10710.783"
+         y="4598.0723"
+         id="tspan8645">Miami</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-02"
+       cx="11885.389"
+       cy="6203.7354"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11388.086"
+       y="6197.9595"
+       id="text8256-3-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="11388.086"
+         y="6197.9595"
+         id="tspan8260-2-9">Sao Sebastiao</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-1-5"
+       cx="10808.147"
+       cy="4067.0615"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10646.632"
+       y="4145.9644"
+       id="text8256-3-4-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="10646.632"
+         y="4145.9644"
+         id="tspan8260-2-7-1">Baltimore</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-2"
+       cx="13381.887"
+       cy="3822.9202"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12975.724"
+       y="3867.613"
+       id="text8256-3-8-2-7-3-3-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="12975.724"
+         y="3867.613"
+         id="tspan8260-2-0-6-9-5-9-0-2">La Rochelle</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-3"
+       cx="6181.6299"
+       cy="6862.814"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="6331.1035"
+       y="6599.0625"
+       id="text8256-3-8-2-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="6331.1035"
+         y="6599.0625"
+         id="tspan8260-2-0-6-77">Sydney</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-25"
+       cx="13812.503"
+       cy="3396.1602"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13826.633"
+       y="3446.5396"
+       id="text8256-3-8-2-7-3-3-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="13826.633"
+         y="3446.5396"
+         id="tspan8260-2-0-6-9-5-9-0-26">Gothenburg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="13791.402"
+       y="3544.9106"
+       id="text8256-3-8-2-7-3-3-4-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="13791.402"
+         y="3544.9106"
+         id="tspan8260-2-0-6-9-5-9-0-26-4">Kiel</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-25-9"
+       cx="13771.33"
+       cy="3526.7334"
+       r="21.666668" />
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-67"
+       cx="6092.0522"
+       cy="6679.2979"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="5547.1509"
+       y="6740.2061"
+       id="text8256-3-8-2-5-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="5547.1509"
+         y="6740.2061"
+         id="tspan8260-2-0-6-77-5">Melbourne</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-7-2"
+       cx="7110.1665"
+       cy="6790.7583"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667064px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="7131.8081"
+       y="6793.4067"
+       id="text8256-3-8-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="7131.8081"
+         y="6793.4067"
+         id="tspan8260-2-0-1">Wellington</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-0-9-7"
+       cx="846.76526"
+       cy="3941.0349"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="673.2182"
+       y="3945.8201"
+       id="text8256-3-8-2-7-3-7-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="673.2182"
+         y="3945.8201"
+         id="tspan8260-2-0-6-9-5-2-6">Vigo</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-1-5-1"
+       cx="10915.193"
+       cy="4000.7957"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10928.218"
+       y="4062.5811"
+       id="text8256-3-4-0-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="10928.218"
+         y="4062.5811"
+         id="tspan8260-2-7-1-7">New York</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-6"
+       cx="13587.822"
+       cy="3613.782"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13223.153"
+       y="3593.4219"
+       id="text8256-3-8-2-7-3-3-4-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="13223.153"
+         y="3593.4219"
+         id="tspan8260-2-0-6-9-5-9-0-4">Rotterdam</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-3-4"
+       cx="13109.761"
+       cy="3582.7966"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12852.893"
+       y="3559.9407"
+       id="text8256-3-8-2-7-3-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="12852.893"
+         y="3559.9407"
+         id="tspan8260-2-0-6-9-5-9-8">Galway</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13434.266"
+       y="3364.3079"
+       id="text8256-3-8-2-7-3-3-4-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="13434.266"
+         y="3364.3079"
+         id="tspan8260-2-0-6-9-5-9-0-26-5">Marstrand</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-25-3"
+       cx="13792.118"
+       cy="3377.7356"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13922.169"
+       y="3330.1309"
+       id="text8256-3-8-2-7-3-3-4-3-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="13922.169"
+         y="3330.1309"
+         id="tspan8260-2-0-6-9-5-9-0-26-3">Stockholm</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-25-92"
+       cx="14053.748"
+       cy="3360.0579"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1139.0762"
+       y="4067.4172"
+       id="text8256-3-8-2-7-3-7-1-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1139.0762"
+         y="4067.4172"
+         id="tspan8260-2-0-6-9-5-2-6-0">Alicante</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-0-9-7-4"
+       cx="1136.3376"
+       cy="4084.3152"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3548.5981"
+       y="5043.8926"
+       id="text8256-3-8-2-73-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="3548.5981"
+         y="5043.8926"
+         id="tspan8260-2-0-6-7-7">Kochi</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-6-2"
+       cx="3748.8914"
+       cy="5050.6465"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4706.5679"
+       y="5330.0293"
+       id="text8256-3-8-2-73-5-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="4706.5679"
+         y="5330.0293"
+         id="tspan8260-2-0-6-7-7-1">Singapore</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-6-2-3"
+       cx="4682.9946"
+       cy="5345.1016"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4969.8369"
+       y="4207.5664"
+       id="text8256-3-8-2-73-5-5-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="4969.8369"
+         y="4207.5664"
+         id="tspan8260-2-0-6-7-7-1-5">Qingdao</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-6-2-3-1"
+       cx="5269.1626"
+       cy="4155.4238"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11034.301"
+       y="3922.5857"
+       id="text8256-3-4-0-9-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="11034.301"
+         y="3922.5857"
+         id="tspan8260-2-7-1-7-2">Boston</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-1-5-1-8"
+       cx="11016.267"
+       cy="3933.5488"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2650.1289"
+       y="4627.9316"
+       id="text8256-3-8-2-73-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="2650.1289"
+         y="4627.9316"
+         id="tspan8260-2-0-6-7-7-6">Abu Dhabi</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-6-2-5"
+       cx="3009.0598"
+       cy="4554.8486"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4893.6201"
+       y="4740.2793"
+       id="text8256-3-8-2-73-5-5-6-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="4893.6201"
+         y="4740.2793"
+         id="tspan8260-2-0-6-7-7-1-5-1">Sanya</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-6-2-3-1-7"
+       cx="4882.958"
+       cy="4764.2358"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11794.49"
+       y="6367.7432"
+       id="text8256-3-2-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="11794.49"
+         y="6367.7432"
+         id="tspan8260-2-9-0">Itajai</tspan></text>
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-02-3"
+       cx="11775.093"
+       cy="6302.8789"
+       r="21.666668" />
+    <circle
+       style="fill:#ff0000"
+       id="path8164-1-1-0-2-0"
+       cx="13101.996"
+       cy="4067.8467"
+       r="21.666668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66667175px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12867.461"
+       y="4053.8811"
+       id="text8256-3-8-2-7-3-3-4-7-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="12867.461"
+         y="4053.8811"
+         id="tspan8260-2-0-6-9-5-9-0-2-8">Lisbon</tspan></text>
   </g>
   <g
      transform="translate(0,5399.9996)"
